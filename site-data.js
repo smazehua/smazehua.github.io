@@ -3,7 +3,7 @@ window.SITE_DATA = {
   translations: {
     en: {
       'nav.about':'About','nav.research':'Research','nav.papers':'Publications','nav.experience':'Experience',
-      'hero.eyebrow':'GENERATIVE AI · 3D VISION · VIDEO REASONING','hero.role':'M.S. Student at Sun Yat-sen University','hero.school':'School of Electronics and Information Technology','hero.cv':'Curriculum Vitae ↗','hero.location':'Shenzhen, China','hero.graduation':'Expected graduation',
+      'hero.eyebrow':'GENERATIVE AI · 3D VISION · VIDEO REASONING','hero.role':'M.S. Student at Sun Yat-sen University','hero.school':'School of Intelligent Systems Engineering','hero.cv':'Curriculum Vitae ↗','hero.location':'Shenzhen, China','hero.graduation':'Expected graduation',
       'research.kicker':'EXPLORING','research.title':'Research interests','news.kicker':'UPDATES','news.title':'Recent news','news.updated':'Updated October 2026',
       'papers.kicker':'SELECTED WORK','papers.title':'Publications & preprints','papers.all':'All','papers.first':'First author','papers.description':'* Equal contribution. My name is highlighted.',
       'experience.kicker':'ALONG THE WAY','experience.title':'Experience & education','experience.industry':'Industry research','experience.education':'Education','experience.toolkit':'Methods & tools',
@@ -32,20 +32,20 @@ window.SITE_DATA = {
         ['Jul. 2023 – Nov. 2023','ZMO.AI','Computer Vision Algorithm Intern · Shenzhen','Product advertising image generation with subject preservation, background synthesis, inpainting, and ControlNet.']
       ],
       education:[
-        ['Sep. 2024 – Present · Expected 2027','Sun Yat-sen University','M.S. Student','School of Electronics and Information Technology<br>Advisor: <a href="https://lemondan.github.io/" target="_blank" rel="noopener">Prof. Xiaodan Liang</a>'],
+        ['Sep. 2024 – Present · Expected 2027','Sun Yat-sen University','M.S. Student','School of Intelligent Systems Engineering<br>Advisor: <a href="https://lemondan.github.io/" target="_blank" rel="noopener">Prof. Xiaodan Liang</a>'],
         ['Sep. 2020 – Jun. 2024','Sun Yat-sen University','Undergraduate Studies','School of Intelligent Systems Engineering<br>Advisor: <a href="https://lemondan.github.io/" target="_blank" rel="noopener">Prof. Xiaodan Liang</a>']
       ]
     },
     zh: {
       'nav.about':'关于我','nav.research':'研究方向','nav.papers':'论文成果','nav.experience':'个人经历',
-      'hero.eyebrow':'生成式人工智能 · 三维视觉 · 视频推理','hero.role':'中山大学 · 硕士研究生','hero.school':'电子与信息工程学院 · 导师：梁小丹教授','hero.cv':'个人简历 ↗','hero.location':'中国 · 深圳','hero.graduation':'预计毕业',
+      'hero.eyebrow':'生成式人工智能 · 三维视觉 · 视频推理','hero.role':'中山大学 · 硕士研究生','hero.school':'智能工程学院 · 导师：梁小丹教授','hero.cv':'个人简历 ↗','hero.location':'中国 · 深圳','hero.graduation':'预计毕业',
       'research.kicker':'研究探索','research.title':'研究方向','news.kicker':'近期动态','news.title':'最新消息','news.updated':'更新于 2026 年 10 月',
       'papers.kicker':'研究成果','papers.title':'论文与预印本','papers.all':'全部','papers.first':'第一作者','papers.description':'* 表示共同第一作者，姓名加粗标注。',
       'experience.kicker':'成长足迹','experience.title':'实习与教育经历','experience.industry':'研究实习','experience.education':'教育背景','experience.toolkit':'研究方法与技术',
       'contact.kicker':'联系交流','contact.title':'期待下一次交流。','contact.description':'欢迎交流生成式人工智能、三维视觉与视频推理研究，也期待相关研究与工作机会。',
       'footer.school':'中山大学','footer.top':'回到顶部 ↑',
       bio:[
-        '我是<a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">中山大学</a>电子与信息工程学院硕士研究生，导师为<a href="https://lemondan.github.io/" target="_blank" rel="noopener">梁小丹教授</a>。研究兴趣聚焦于<strong>个性化生成、三维生成与视频生成</strong>，希望构建能够保持人物身份、恢复高质量三维结构，并理解动态世界演化的生成模型。',
+        '我是<a href="https://www.sysu.edu.cn/" target="_blank" rel="noopener">中山大学</a>智能工程学院硕士研究生，导师为<a href="https://lemondan.github.io/" target="_blank" rel="noopener">梁小丹教授</a>。研究兴趣聚焦于<strong>个性化生成、三维生成与视频生成</strong>，希望构建能够保持人物身份、恢复高质量三维结构，并理解动态世界演化的生成模型。',
         '近期主要研究<strong>潜在状态轨迹引导的视频生成与视觉推理</strong>，以及<strong>单图像三维生成与重建</strong>。曾在华为 2012 实验室、腾讯混元团队和 ZMO.AI 开展研究实习。'
       ],
       research:[
@@ -67,7 +67,7 @@ window.SITE_DATA = {
         ['2023.07 – 2023.11','ZMO.AI','计算机视觉算法实习生 · 深圳','面向商品广告图的主体保留、背景生成与局部重绘，探索 ControlNet 条件控制生成。']
       ],
       education:[
-        ['2024.09 – 至今 · 预计 2027 年毕业','中山大学','硕士研究生','电子与信息工程学院<br>导师：<a href="https://lemondan.github.io/" target="_blank" rel="noopener">梁小丹教授</a>'],
+        ['2024.09 – 至今 · 预计 2027 年毕业','中山大学','硕士研究生','智能工程学院<br>导师：<a href="https://lemondan.github.io/" target="_blank" rel="noopener">梁小丹教授</a>'],
         ['2020.09 – 2024.06','中山大学','本科','智能工程学院<br>导师：<a href="https://lemondan.github.io/" target="_blank" rel="noopener">梁小丹教授</a>']
       ]
     }

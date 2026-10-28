@@ -33,7 +33,7 @@ story=[p('Zehua Ma','NameCustom'),p('Generative AI | 3D Vision | Video Reasoning
 section('Research interests')
 story.append(p('Personalized generation, 3D generation and reconstruction, and video generation for visual reasoning. My work focuses on identity-preserving synthesis, faithful 3D geometry and textures, and task-relevant latent state trajectories for logically consistent video generation.'))
 section('Education')
-block('Sun Yat-sen University','Sep. 2024 - Present; expected graduation 2027','M.S. Student', ['School of Electronics and Information Technology. Advisor: Prof. Xiaodan Liang.'])
+block('Sun Yat-sen University','Sep. 2024 - Present; expected graduation 2027','M.S. Student', ['School of Intelligent Systems Engineering. Advisor: Prof. Xiaodan Liang.'])
 block('Sun Yat-sen University','Sep. 2020 - Jun. 2024','Undergraduate Studies', ['School of Intelligent Systems Engineering. Advisor: Prof. Xiaodan Liang.'])
 section('Selected research projects')
 block('VR-JEPA: Learning Contrastive-State Latent Guidance for Generation-based Video Reasoning','2026','Co-first author | arXiv:2609.40129',[

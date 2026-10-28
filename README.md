@@ -37,3 +37,5 @@ python3 -m http.server 8080
 - DreamVTON：[arXiv:2407.16511](https://arxiv.org/abs/2407.16511)，缩略图来自论文 teaser；ACM MM 2024，[DOI](https://doi.org/10.1145/3664647.3681391)。
 
 论文图片版权归各论文作者及对应权利方；个人照片仅用于本人主页。内容核对日期：2026-10-28。
+
+学院官方译名：**School of Intelligent Systems Engineering**（智能工程学院）。依据：[中山大学英文官网院系列表](https://www.sysu.edu.cn/sysuen/Academics/Schools___Departments.htm)。
