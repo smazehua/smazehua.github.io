@@ -70,8 +70,8 @@ block('ZMO.AI | Shenzhen','Jul. 2023 - Nov. 2023','Computer Vision Algorithm Int
 'Generate product advertising images while preserving the product across different scenes.',
 'Combine product segmentation, layout composition, background generation, and local inpainting to improve boundaries, lighting, and contact shadows.'
 ])
-section('Additional co-authored preprints')
-story.append(p('<b>Beyond the Eye: Efficient Multimodal Reasoning via Self-Regulated Implicit Visual Tools.</b><br/>Xiuwei Chen, Quanlin Chen, Wentao Hu, Zisheng Chen, Kun Xiang, <b>Zehua Ma</b>, et al.<br/><font color="#697581">arXiv:2607.11106, 2026.</font>'))
+section('Additional co-authored publications & preprints')
+story.append(p('<b>Beyond the Eye: Efficient Multimodal Reasoning via Self-Regulated Implicit Visual Tools.</b><br/>Xiuwei Chen, Quanlin Chen, Wentao Hu, Zisheng Chen, Kun Xiang, <b>Zehua Ma</b>, et al.<br/><font color="#697581">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI). Accepted October 2026.<br/>Preprint: arXiv:2607.11106.</font>'))
 story.append(p('<b>AnyCrowd: Instance-Isolated Identity-Pose Binding for Arbitrary Multi-Character Animation.</b><br/>Zhenyu Xie, Ji Xia, Michael Kampffmeyer, Panwen Hu, <b>Zehua Ma</b>, et al.<br/><font color="#697581">arXiv:2603.15415, 2026.</font>'))
 section('Methods & tools')
 story.append(p('Diffusion models, personalized generation, LoRA, DreamBooth, ControlNet, inpainting, 3D Gaussian Splatting, large reconstruction models (LRMs), JEPA, mixture-of-experts, and contrastive learning.'))

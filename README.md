@@ -13,7 +13,7 @@
 - `assets/files/Zehua_Ma_CV.pdf`：公开版英文 CV，不包含手机号和出生日期。
 - `scripts/build_cv.py`：CV 生成源文件，更新后使用安装了 `reportlab` 的 Python 运行。
 
-论文 `first: true` 表示共同第一作者，`published: true` 表示已核实的正式发表。未正式确认的会议录用不写入主页。代码与项目链接仅使用已公开的地址。
+论文 `first: true` 表示共同第一作者，`published: true` 表示已核实的正式发表，`accepted: true` 表示已接收。未正式确认的会议录用不写入主页。代码与项目链接仅使用已公开的地址。
 
 ## 本地预览
 
@@ -32,7 +32,7 @@ python3 -m http.server 8080
 - 简介、照片、教育与实习：马泽华本人提供的简历。
 - VR-JEPA：[arXiv:2609.40129](https://arxiv.org/abs/2609.40129)，缩略图来自论文 teaser。
 - ERGO：[arXiv:2602.10278](https://arxiv.org/abs/2602.10278)，缩略图来自论文 teaser。
-- Beyond the Eye：[arXiv:2607.11106](https://arxiv.org/abs/2607.11106)，缩略图来自论文 main picture。
+- Beyond the Eye：[arXiv:2607.11106](https://arxiv.org/abs/2607.11106)，2026 年 10 月被 IEEE TPAMI 接收（作者提供），缩略图来自论文 main picture。
 - AnyCrowd：[arXiv:2603.15415](https://arxiv.org/abs/2603.15415)，缩略图来自论文 Figure 1。
 - DreamVTON：[arXiv:2407.16511](https://arxiv.org/abs/2407.16511)，缩略图来自论文 teaser；ACM MM 2024，[DOI](https://doi.org/10.1145/3664647.3681391)。
 
